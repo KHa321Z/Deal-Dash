@@ -1,0 +1,7 @@
+card
+height: 500px
+width: 350px
+
+icon:
+height: 600px
+width: 650px
